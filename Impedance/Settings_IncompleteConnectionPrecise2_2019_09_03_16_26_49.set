@@ -1,0 +1,20 @@
+Current experiment settings:
+
+Generator model: DS345
+   Offset: 0.000000 V
+   Amplitude: 1.000000 Vrms
+   Intervals: 1
+      Interval: 1
+         Frequency from: 1000.000000 Hz
+         Frequency to:   1000000.000000 Hz
+         Frequency step: 1000.000000 Hz
+
+Lock-in amplifier model: SR865
+   Time constant: 10 ms
+   Input range:   1V
+   Sensivity:     1 V/uA
+
+Experiment:
+   Mode: Single
+      Average of 1 points
+      For new point wait for 150 ms

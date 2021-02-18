@@ -1,0 +1,5 @@
+Entering sum() - (C:\Users\tatki\Documents\PHOTONICS\YEAR 4\ExperimentAutomatization\time.cpp:37)
+Leaving  sum() - (C:\Users\tatki\Documents\PHOTONICS\YEAR 4\ExperimentAutomatization\time.cpp), total runtime 419 ms
+11Entering sum() - (C:\Users\tatki\Documents\PHOTONICS\YEAR 4\ExperimentAutomatization\time.cpp:37)
+Leaving  sum() - (C:\Users\tatki\Documents\PHOTONICS\YEAR 4\ExperimentAutomatization\time.cpp), total runtime 424 ms
+11

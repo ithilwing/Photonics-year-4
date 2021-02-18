@@ -1,0 +1,22 @@
+Current experiment settings:
+
+Generator model: DS345
+   Offset: 0.000000 V
+   Amplitude: 2.000000 Vrms
+   Intervals: 1
+      Interval: 1
+         Frequency from: 580000.000000 Hz
+         Frequency to:   580800.000000 Hz
+         Frequency step: 2.000000 Hz
+
+Lock-in amplifier model: SR865
+   Time constant: 10 ms
+   Input range:   10M
+   Sensivity:     1 mV/nA
+
+Experiment:
+   Mode: Kinetic
+      Fres: 580392.310000 Hz
+      dFres/dT  < 0
+      Jump: 50.000000 Hz
+      Jump divider: 1.000000
